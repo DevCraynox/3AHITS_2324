@@ -1,0 +1,12 @@
+type: marketplace
+title: Java Muster
+language: German
+summary: Verschiedene Muster sollen ausgegeben werden.
+programming_language: Java
+content:
+  - Rectangle
+  - Triangle
+mode: Study
+solutions_hidden: true
+vendor:
+  name: Christian Ludl

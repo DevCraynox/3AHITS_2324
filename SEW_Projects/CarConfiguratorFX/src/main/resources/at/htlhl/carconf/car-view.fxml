@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="at.htlhl.carconf.CarController">
+   <center>
+      <GridPane BorderPane.alignment="CENTER">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="40.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="10.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="ALWAYS" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="10.0" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" />
+            <RowConstraints minHeight="10.0" prefHeight="10.0" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" />
+            <RowConstraints minHeight="10.0" prefHeight="10.0" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" />
+            <RowConstraints minHeight="10.0" prefHeight="10.0" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" />
+            <RowConstraints minHeight="10.0" prefHeight="10.0" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="ALWAYS" />
+        </rowConstraints>
+         <children>
+            <TextField fx:id="manufacturerTextField" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+            <TextField fx:id="typeTextFlied" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+            <Label text="%manufactureLabel" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="1" />
+            <Label text="%typeLabel" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="3" />
+            <Slider fx:id="powerSlider" showTickLabels="true" showTickMarks="true" GridPane.columnIndex="3" GridPane.rowIndex="5" />
+            <Slider fx:id="rangeSlider" majorTickUnit="275.0" max="925.0" min="100.0" showTickLabels="true" showTickMarks="true" GridPane.columnIndex="3" GridPane.rowIndex="7" />
+            <Button fx:id="tuneButton" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#tuneAction" text="%tuneButton.text" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="9" />
+            <Label text="%powerLabel" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="5" />
+            <Label text="%rangeLabel" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.rowIndex="7" />
+         </children>
+      </GridPane>
+   </center>
+   <top>
+      <ToolBar prefHeight="40.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+        <items>
+          <Button fx:id="saveButton" mnemonicParsing="false" onAction="#saveAction" text="%saveButton.text" />
+            <Button fx:id="loadButton" mnemonicParsing="false" onAction="#loadAction" text="%loadButton.text" />
+        </items>
+      </ToolBar>
+   </top>
+</BorderPane>

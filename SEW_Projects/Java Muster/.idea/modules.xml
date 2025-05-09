@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_Muster.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_Muster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle1/Java_Muster.Rectangle-Rectangle1.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle1/Java_Muster.Rectangle-Rectangle1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle1/Java_Muster.Rectangle-Rectangle1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle1/Java_Muster.Rectangle-Rectangle1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle1/Java_Muster.Rectangle-Rectangle1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle1/Java_Muster.Rectangle-Rectangle1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle2/Java_Muster.Rectangle-Rectangle2.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle2/Java_Muster.Rectangle-Rectangle2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle2/Java_Muster.Rectangle-Rectangle2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle2/Java_Muster.Rectangle-Rectangle2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle2/Java_Muster.Rectangle-Rectangle2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle2/Java_Muster.Rectangle-Rectangle2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle3/Java_Muster.Rectangle-Rectangle3.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle3/Java_Muster.Rectangle-Rectangle3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle3/Java_Muster.Rectangle-Rectangle3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle3/Java_Muster.Rectangle-Rectangle3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle3/Java_Muster.Rectangle-Rectangle3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle3/Java_Muster.Rectangle-Rectangle3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle4/Java_Muster.Rectangle-Rectangle4.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle4/Java_Muster.Rectangle-Rectangle4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle4/Java_Muster.Rectangle-Rectangle4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle4/Java_Muster.Rectangle-Rectangle4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle4/Java_Muster.Rectangle-Rectangle4.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Rectangle/Rectangle4/Java_Muster.Rectangle-Rectangle4.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle1/Java_Muster.Triangle-Triangle1.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle1/Java_Muster.Triangle-Triangle1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle1/Java_Muster.Triangle-Triangle1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle1/Java_Muster.Triangle-Triangle1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle1/Java_Muster.Triangle-Triangle1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle1/Java_Muster.Triangle-Triangle1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle2/Java_Muster.Triangle-Triangle2.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle2/Java_Muster.Triangle-Triangle2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle2/Java_Muster.Triangle-Triangle2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle2/Java_Muster.Triangle-Triangle2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle2/Java_Muster.Triangle-Triangle2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle2/Java_Muster.Triangle-Triangle2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle3/Java_Muster.Triangle-Triangle3.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle3/Java_Muster.Triangle-Triangle3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle3/Java_Muster.Triangle-Triangle3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle3/Java_Muster.Triangle-Triangle3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle3/Java_Muster.Triangle-Triangle3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle3/Java_Muster.Triangle-Triangle3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle4/Java_Muster.Triangle-Triangle4.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle4/Java_Muster.Triangle-Triangle4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle4/Java_Muster.Triangle-Triangle4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle4/Java_Muster.Triangle-Triangle4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Triangle/Triangle4/Java_Muster.Triangle-Triangle4.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Triangle/Triangle4/Java_Muster.Triangle-Triangle4.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Muster.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Muster.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Muster.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Muster.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Muster.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Muster.util.test.iml" />
+    </modules>
+  </component>
+</project>

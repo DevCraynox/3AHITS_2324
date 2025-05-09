@@ -1,0 +1,56 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    encrypted_text: FR5xD6dobk0/51Pyywca5S9nlo3ghIz8k1ejTi76r3eXlakfv2PEducI9ek3Q5AuFAaBVEed69/4VdPvgcbHGg==
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 118
+        length: 23
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 118
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: i/EpcwLsIb/+irSPMHzP2lk0ZyObUL5yI2DyVMy3JFQ=
+      - offset: 159
+        length: 27
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 146
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: q++EA/4rlaAZMQe8SSFUKW4h3HdkbZYqV/6aDyyGTHM=
+      - offset: 202
+        length: 26
+        placeholder_text: /* Output */
+        initial_state:
+          length: 12
+          offset: 172
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFNhO2yLb5wnzIWWMN3972fA=
+      - offset: 249
+        length: 21
+        placeholder_text: /* Leerzeile ausgeben */
+        initial_state:
+          length: 24
+          offset: 205
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFBt23hKHlpnLsw0KFHbSjuk=
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6Yw8a2SIdRI9j96Fx1rNkyqdE1eqEQZ4+shUHN1u0fnxoWyAoFIEtGOOlm+SRgeIfaCVLi4d6q2uVrNpXWHGVGkY0agUrwR2ULuB0MdLQd3elRG1JD/V2Lrar51Omdev0iIYVxQ+Qn28B0mb7LJ/RUwOWJ9Co5FkDqikFhJlEq6mpYGTwdlSFKi94/TOunnZuuJ7wbKDRX/dH2BHVDXjDyKep2B4RraLuezyYSTxnlIsggNbk7kGBoNvU/tGdXdDUBng==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 16 Sep 2023 21:11:10 UTC"
+record: -1

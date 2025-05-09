@@ -1,0 +1,56 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    encrypted_text: RgqwEwRfqBrOZ+CX52LYo6HwVydiXzGLmmpHLlUdq+YxB+Wbs15Cq4h7n64vteQ9wXU2elPf2DQPcSmpXQ+zAQ==
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 124
+        length: 23
+        placeholder_text: /* for-Schleife für `row` */
+        initial_state:
+          length: 28
+          offset: 124
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: i/EpcwLsIb/+irSPMHzP2lk0ZyObUL5yI2DyVMy3JFQ=
+      - offset: 165
+        length: 27
+        placeholder_text: /* for-Schleife für `colum` */
+        initial_state:
+          length: 30
+          offset: 170
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: sZAPJ1F7miwEF5+tchv0Uo+2oX4Oparr28/hoaTbD6E=
+      - offset: 208
+        length: 23
+        placeholder_text: "/* Ausgabe: \"* \" - inkl. Leerzeichen */"
+        initial_state:
+          length: 39
+          offset: 216
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFLlkeruNbas7D6OPSIvzJmo=
+      - offset: 252
+        length: 21
+        placeholder_text: /* Leerzeile ausgeben */
+        initial_state:
+          length: 24
+          offset: 276
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFBt23hKHlpnLsw0KFHbSjuk=
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6YwyAfPgNxAF5cYk0AP2FWwtf4pDOuOloa7Z7kULRaJjogOaQP5+gTY+l9HxTzsjwnAPhRr3h1zXtQgvwC1JWdUvOiCfutf4OmZUAaOgVDzbcusAjniEg+baO7Z6cUn+UgWelxQSrO81cDaEgEyPoTFzuLraqQAfjN32hv+FqK1HZxvvjZ+HbS6ZhWjU6Fy+uwAfSjAN193wx5Dl+JHT/Ls1y6fRXmg/e2CCeDJuxtwIVUPy/T7uNIdxToNRvOLKhel9Pi5tvS+UKJWHhLlanG/aeRMc2TGlAsVkGKLkTLtjZVL72aAZSUak/qvATRAUOeSK0fPRiI9bmQEZgOSfRZ7Cc=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 16 Sep 2023 21:08:47 UTC"
+record: -1

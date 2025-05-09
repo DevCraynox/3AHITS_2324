@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Rectangle/Rectangle1" />
+            <option value="$PROJECT_DIR$/Rectangle/Rectangle2" />
+            <option value="$PROJECT_DIR$/Rectangle/Rectangle3" />
+            <option value="$PROJECT_DIR$/Rectangle/Rectangle4" />
+            <option value="$PROJECT_DIR$/Triangle/Triangle1" />
+            <option value="$PROJECT_DIR$/Triangle/Triangle2" />
+            <option value="$PROJECT_DIR$/Triangle/Triangle3" />
+            <option value="$PROJECT_DIR$/Triangle/Triangle4" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

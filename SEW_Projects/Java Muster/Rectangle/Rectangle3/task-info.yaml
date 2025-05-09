@@ -1,0 +1,56 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    encrypted_text: rmfwV9RL3jw5hod1bj5dx5gDtXxcfaVCyaBVPiPBEoKadqvVpbvlTNpCuONIZCpVhONXoQD1VDgk2ctNkxDO+Q==
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 124
+        length: 23
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 124
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: i/EpcwLsIb/+irSPMHzP2lk0ZyObUL5yI2DyVMy3JFQ=
+      - offset: 165
+        length: 27
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 152
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: OzsLR0XEnxjwY+/FyHNdWpI68jkq+V6lyrMU8MZCzYQ=
+      - offset: 208
+        length: 26
+        placeholder_text: /* Output */
+        initial_state:
+          length: 12
+          offset: 178
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFNhO2yLb5wnzIWWMN3972fA=
+      - offset: 255
+        length: 21
+        placeholder_text: /* Leerzeile ausgeben */
+        initial_state:
+          length: 24
+          offset: 211
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFBt23hKHlpnLsw0KFHbSjuk=
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am4BU5WKavemmrYTYXmzh/WuQfzHR3doZI/3hHs82WT1cfu+S8Hbqcvqsd43cOU6YwyAfPgNxAF5cYk0AP2FWwtf4pDOuOloa7Z7kULRaJjogOaQP5+gTY+l9HxTzsjwnAA/Hzr3xusK5ckA0zpnVyP0CUcnefn5hfL/Te/TkuLp8KZwfpkXZCYl6nkuuYF0Sjg6rxSYCSTxC5CKefSpoq+fjq7Vy5PeqJ28np+Ept52FiNyTeQx6duFAWJNdeJ14YRaNaDSKc1lZ1tPRPEupkdg7QZjwUwHKai0W7O9bXb/VdIOuu7mRACYUnFj3p6T2cjsisKGVYKWdU+ZL2W0bfX8=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 16 Sep 2023 21:13:55 UTC"
+record: -1
